@@ -1,0 +1,203 @@
+Shape of train feature and train Paths is (119894, 512) and 119894
+Shape of test feature and test label is (44972, 512) and (44972,)
+Epoch [1] -loss 0.1676 - Accuracy: 95.33% 
+Epoch [2] -loss 0.0001 - Accuracy: 100.00% 
+
+Test accuracy : 10.00% -Current Object : 05_23 - Object No- 1
+Epoch [1] -loss 0.8860 - Accuracy: 66.67% 
+Epoch [2] -loss 0.0475 - Accuracy: 100.00% 
+
+Test accuracy : 12.68% -Current Object : 06_12 - Object No- 2
+Epoch [1] -loss 1.3701 - Accuracy: 75.56% 
+Epoch [2] -loss 0.0546 - Accuracy: 99.56% 
+
+Test accuracy : 17.70% -Current Object : 08_28 - Object No- 3
+Epoch [1] -loss 1.1543 - Accuracy: 87.99% 
+Epoch [2] -loss 0.0273 - Accuracy: 99.83% 
+
+Test accuracy : 19.96% -Current Object : 11_47 - Object No- 4
+Epoch [1] -loss 0.9651 - Accuracy: 90.33% 
+Epoch [2] -loss 0.0159 - Accuracy: 99.80% 
+
+Test accuracy : 25.07% -Current Object : 02_39 - Object No- 5
+Epoch [1] -loss 0.0425 - Accuracy: 99.44% 
+
+Test accuracy : 26.61% -Current Object : 01_26 - Object No- 6
+Epoch [1] -loss 0.0629 - Accuracy: 97.05% 
+Epoch [2] -loss 0.0100 - Accuracy: 99.57% 
+
+Test accuracy : 26.77% -Current Object : 02_50 - Object No- 7
+Epoch [1] -loss 0.0368 - Accuracy: 99.25% 
+
+Test accuracy : 28.33% -Current Object : 05_28 - Object No- 8
+Epoch [1] -loss 0.0120 - Accuracy: 99.48% 
+
+Test accuracy : 29.35% -Current Object : 04_28 - Object No- 9
+Epoch [1] -loss 0.5670 - Accuracy: 97.00% 
+Epoch [2] -loss 0.0075 - Accuracy: 99.83% 
+
+Test accuracy : 33.27% -Current Object : 01_33 - Object No- 10
+Epoch [1] -loss 0.0319 - Accuracy: 98.70% 
+Epoch [2] -loss 0.0112 - Accuracy: 99.55% 
+
+Test accuracy : 37.01% -Current Object : 05_34 - Object No- 11
+Epoch [1] -loss 0.1309 - Accuracy: 95.89% 
+Epoch [2] -loss 0.0174 - Accuracy: 98.61% 
+Epoch [3] -loss 0.0078 - Accuracy: 99.31% 
+
+Test accuracy : 40.55% -Current Object : 11_40 - Object No- 12
+Epoch [1] -loss 0.5416 - Accuracy: 96.92% 
+Epoch [2] -loss 0.0152 - Accuracy: 99.36% 
+
+Test accuracy : 41.96% -Current Object : 06_45 - Object No- 13
+Epoch [1] -loss 0.0344 - Accuracy: 98.57% 
+Epoch [2] -loss 0.0199 - Accuracy: 99.38% 
+
+Test accuracy : 45.31% -Current Object : 01_43 - Object No- 14
+Epoch [1] -loss 0.3931 - Accuracy: 97.62% 
+Epoch [2] -loss 0.0126 - Accuracy: 99.40% 
+
+Test accuracy : 46.67% -Current Object : 08_18 - Object No- 15
+Epoch [1] -loss 0.0167 - Accuracy: 99.29% 
+
+Test accuracy : 48.37% -Current Object : 11_35 - Object No- 16
+Epoch [1] -loss 0.0415 - Accuracy: 97.90% 
+Epoch [2] -loss 0.0174 - Accuracy: 98.61% 
+Epoch [3] -loss 0.0391 - Accuracy: 99.29% 
+
+Test accuracy : 51.81% -Current Object : 08_13 - Object No- 17
+Epoch [1] -loss 0.0197 - Accuracy: 98.93% 
+Epoch [2] -loss 0.0078 - Accuracy: 99.39% 
+
+Test accuracy : 48.80% -Current Object : 09_35 - Object No- 18
+Epoch [1] -loss 0.1735 - Accuracy: 97.95% 
+Epoch [2] -loss 0.0101 - Accuracy: 99.40% 
+
+Test accuracy : 51.23% -Current Object : 06_08 - Object No- 19
+Epoch [1] -loss 0.0302 - Accuracy: 98.80% 
+Epoch [2] -loss 0.0101 - Accuracy: 99.18% 
+
+Test accuracy : 53.76% -Current Object : 11_24 - Object No- 20
+Epoch [1] -loss 0.0826 - Accuracy: 97.58% 
+Epoch [2] -loss 0.0225 - Accuracy: 99.13% 
+
+Test accuracy : 52.56% -Current Object : 05_48 - Object No- 21
+Epoch [1] -loss 0.0156 - Accuracy: 98.82% 
+Epoch [2] -loss 0.0089 - Accuracy: 99.15% 
+
+Test accuracy : 54.32% -Current Object : 05_29 - Object No- 22
+Epoch [1] -loss 0.3291 - Accuracy: 98.27% 
+Epoch [2] -loss 0.0210 - Accuracy: 99.06% 
+
+Test accuracy : 53.68% -Current Object : 09_05 - Object No- 23
+Epoch [1] -loss 0.0222 - Accuracy: 98.97% 
+Epoch [2] -loss 0.0208 - Accuracy: 99.30% 
+
+Test accuracy : 56.78% -Current Object : 11_34 - Object No- 24
+Epoch [1] -loss 0.0367 - Accuracy: 98.25% 
+Epoch [2] -loss 0.0110 - Accuracy: 99.07% 
+
+Test accuracy : 58.03% -Current Object : 04_31 - Object No- 25
+Epoch [1] -loss 0.0461 - Accuracy: 98.15% 
+Epoch [2] -loss 0.0152 - Accuracy: 98.79% 
+Epoch [3] -loss 0.0092 - Accuracy: 99.00% 
+Epoch [4] -loss 0.0106 - Accuracy: 99.13% 
+
+Test accuracy : 60.88% -Current Object : 02_13 - Object No- 26
+Epoch [1] -loss 0.0330 - Accuracy: 98.31% 
+Epoch [2] -loss 0.0131 - Accuracy: 98.85% 
+Epoch [3] -loss 0.0166 - Accuracy: 99.04% 
+
+Test accuracy : 60.82% -Current Object : 08_21 - Object No- 27
+Epoch [1] -loss 0.0240 - Accuracy: 98.77% 
+Epoch [2] -loss 0.0093 - Accuracy: 99.01% 
+
+Test accuracy : 60.09% -Current Object : 05_44 - Object No- 28
+Epoch [1] -loss 0.0185 - Accuracy: 98.75% 
+Epoch [2] -loss 0.0138 - Accuracy: 98.98% 
+Epoch [3] -loss 0.0080 - Accuracy: 99.24% 
+
+Test accuracy : 60.25% -Current Object : 01_12 - Object No- 29
+Epoch [1] -loss 0.0167 - Accuracy: 99.13% 
+
+Test accuracy : 63.27% -Current Object : 02_31 - Object No- 30
+Epoch [1] -loss 0.0245 - Accuracy: 98.17% 
+Epoch [2] -loss 0.0220 - Accuracy: 98.61% 
+Epoch [3] -loss 0.0126 - Accuracy: 98.63% 
+Epoch [4] -loss 0.0089 - Accuracy: 98.92% 
+Epoch [5] -loss 0.0223 - Accuracy: 98.99% 
+Epoch [6] -loss 0.0137 - Accuracy: 98.97% 
+Epoch [7] -loss 0.0117 - Accuracy: 99.16% 
+
+Test accuracy : 60.91% -Current Object : 02_28 - Object No- 31
+Epoch [1] -loss 0.0148 - Accuracy: 99.00% 
+Epoch [2] -loss 0.0097 - Accuracy: 99.11% 
+
+Test accuracy : 63.89% -Current Object : 04_26 - Object No- 32
+Epoch [1] -loss 0.0404 - Accuracy: 97.66% 
+Epoch [2] -loss 0.0238 - Accuracy: 98.48% 
+Epoch [3] -loss 0.0296 - Accuracy: 98.48% 
+Epoch [4] -loss 0.0107 - Accuracy: 98.62% 
+Epoch [5] -loss 0.0249 - Accuracy: 98.75% 
+Epoch [6] -loss 0.0118 - Accuracy: 98.68% 
+Epoch [7] -loss 0.0200 - Accuracy: 98.76% 
+Epoch [8] -loss 0.0126 - Accuracy: 99.01% 
+
+Test accuracy : 62.47% -Current Object : 11_14 - Object No- 33
+Epoch [1] -loss 0.1162 - Accuracy: 97.10% 
+Epoch [2] -loss 0.0262 - Accuracy: 98.12% 
+Epoch [3] -loss 0.0182 - Accuracy: 98.28% 
+Epoch [4] -loss 0.0145 - Accuracy: 98.49% 
+Epoch [5] -loss 0.0146 - Accuracy: 98.59% 
+Epoch [6] -loss 0.0159 - Accuracy: 98.86% 
+Epoch [7] -loss 0.0112 - Accuracy: 98.93% 
+Epoch [8] -loss 0.0143 - Accuracy: 98.90% 
+Epoch [9] -loss 0.0119 - Accuracy: 99.13% 
+
+Test accuracy : 64.29% -Current Object : 01_20 - Object No- 34
+Epoch [1] -loss 0.0298 - Accuracy: 98.13% 
+Epoch [2] -loss 0.0240 - Accuracy: 98.63% 
+Epoch [3] -loss 0.0173 - Accuracy: 98.89% 
+Epoch [4] -loss 0.0330 - Accuracy: 99.06% 
+
+Test accuracy : 65.53% -Current Object : 11_03 - Object No- 35
+Epoch [1] -loss 0.0191 - Accuracy: 98.28% 
+Epoch [2] -loss 0.0198 - Accuracy: 98.54% 
+Epoch [3] -loss 0.0228 - Accuracy: 98.64% 
+Epoch [4] -loss 0.0139 - Accuracy: 98.67% 
+Epoch [5] -loss 0.0153 - Accuracy: 98.71% 
+Epoch [6] -loss 0.0261 - Accuracy: 98.67% 
+Epoch [7] -loss 0.0239 - Accuracy: 98.82% 
+Epoch [8] -loss 0.0130 - Accuracy: 98.84% 
+Epoch [9] -loss 0.0210 - Accuracy: 98.91% 
+Epoch [10] -loss 0.0199 - Accuracy: 98.94% 
+Epoch [11] -loss 0.0185 - Accuracy: 98.85% 
+Epoch [12] -loss 0.0110 - Accuracy: 98.85% 
+Epoch [13] -loss 0.0164 - Accuracy: 98.96% 
+Epoch [14] -loss 0.0088 - Accuracy: 99.01% 
+
+Test accuracy : 64.83% -Current Object : 08_11 - Object No- 36
+Epoch [1] -loss 0.0649 - Accuracy: 96.60% 
+Epoch [2] -loss 0.0473 - Accuracy: 97.69% 
+Epoch [3] -loss 0.0307 - Accuracy: 98.06% 
+Epoch [4] -loss 0.0173 - Accuracy: 98.14% 
+Epoch [5] -loss 0.0179 - Accuracy: 98.38% 
+Epoch [6] -loss 0.0239 - Accuracy: 98.51% 
+Epoch [7] -loss 0.0122 - Accuracy: 98.63% 
+Epoch [8] -loss 0.0205 - Accuracy: 98.49% 
+Epoch [9] -loss 0.0159 - Accuracy: 98.67% 
+Epoch [10] -loss 0.0366 - Accuracy: 98.59% 
+Epoch [11] -loss 0.0105 - Accuracy: 98.55% 
+Epoch [12] -loss 0.0262 - Accuracy: 98.81% 
+Epoch [13] -loss 0.0256 - Accuracy: 98.69% 
+Epoch [14] -loss 0.0114 - Accuracy: 98.94% 
+Epoch [15] -loss 0.0178 - Accuracy: 98.99% 
+Epoch [16] -loss 0.0135 - Accuracy: 98.86% 
+Epoch [17] -loss 0.0122 - Accuracy: 98.95% 
+Epoch [18] -loss 0.0113 - Accuracy: 98.85% 
+Epoch [19] -loss 0.0098 - Accuracy: 98.92% 
+Epoch [20] -loss 0.0127 - Accuracy: 98.96% 
+Epoch [21] -loss 0.0112 - Accuracy: 98.93% 
+Epoch [22] -loss 0.0181 - Accuracy: 99.07% 
+
+Test accuracy : 61.94% -Current Object : 04_10 - Object No- 37

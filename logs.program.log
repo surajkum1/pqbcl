@@ -1,0 +1,969 @@
+Shape of train feature and train Paths is (119894, 512) and 119894
+Shape of test feature and test label is (44972, 512) and (44972,)
+Epoch [1] -loss 0.2801 - Accuracy: 90.67% 
+Epoch [2] -loss 0.0001 - Accuracy: 100.00% 
+
+Test accuracy : 10.00% -Current Object : 05_23 - Object No- 1
+Epoch [1] -loss 0.9670 - Accuracy: 67.50% 
+Epoch [2] -loss 0.0338 - Accuracy: 100.00% 
+
+Test accuracy : 11.83% -Current Object : 06_12 - Object No- 2
+Epoch [1] -loss 1.2599 - Accuracy: 81.00% 
+Epoch [2] -loss 0.0287 - Accuracy: 100.00% 
+
+Test accuracy : 17.44% -Current Object : 08_28 - Object No- 3
+Epoch [1] -loss 1.1388 - Accuracy: 87.99% 
+Epoch [2] -loss 0.0192 - Accuracy: 100.00% 
+
+Test accuracy : 19.33% -Current Object : 11_47 - Object No- 4
+Epoch [1] -loss 0.9301 - Accuracy: 92.06% 
+Epoch [2] -loss 0.0098 - Accuracy: 100.00% 
+
+Test accuracy : 24.54% -Current Object : 02_39 - Object No- 5
+Epoch [1] -loss 0.0381 - Accuracy: 99.78% 
+
+Test accuracy : 24.09% -Current Object : 01_26 - Object No- 6
+Epoch [1] -loss 0.0634 - Accuracy: 97.90% 
+Epoch [2] -loss 0.0067 - Accuracy: 100.00% 
+
+Test accuracy : 25.67% -Current Object : 02_50 - Object No- 7
+Epoch [1] -loss 0.0336 - Accuracy: 99.50% 
+
+Test accuracy : 27.51% -Current Object : 05_28 - Object No- 8
+Epoch [1] -loss 0.0075 - Accuracy: 99.93% 
+
+Test accuracy : 27.17% -Current Object : 04_28 - Object No- 9
+Epoch [1] -loss 0.5458 - Accuracy: 97.90% 
+Epoch [2] -loss 0.0033 - Accuracy: 100.00% 
+
+Test accuracy : 31.90% -Current Object : 01_33 - Object No- 10
+Epoch [1] -loss 0.0419 - Accuracy: 99.06% 
+
+Test accuracy : 35.75% -Current Object : 05_34 - Object No- 11
+Epoch [1] -loss 0.1094 - Accuracy: 97.75% 
+Epoch [2] -loss 0.0064 - Accuracy: 99.64% 
+
+Test accuracy : 39.93% -Current Object : 11_40 - Object No- 12
+Epoch [1] -loss 0.3269 - Accuracy: 98.13% 
+Epoch [2] -loss 0.0041 - Accuracy: 99.95% 
+
+Test accuracy : 41.30% -Current Object : 06_45 - Object No- 13
+Epoch [1] -loss 0.0149 - Accuracy: 99.62% 
+
+Test accuracy : 45.64% -Current Object : 01_43 - Object No- 14
+Epoch [1] -loss 0.5135 - Accuracy: 98.53% 
+Epoch [2] -loss 0.0072 - Accuracy: 99.96% 
+
+Test accuracy : 47.97% -Current Object : 08_18 - Object No- 15
+Epoch [1] -loss 0.0153 - Accuracy: 99.92% 
+
+Test accuracy : 48.03% -Current Object : 11_35 - Object No- 16
+Epoch [1] -loss 0.1344 - Accuracy: 98.02% 
+Epoch [2] -loss 0.0081 - Accuracy: 99.35% 
+
+Test accuracy : 53.19% -Current Object : 08_13 - Object No- 17
+Epoch [1] -loss 0.0108 - Accuracy: 99.61% 
+
+Test accuracy : 52.58% -Current Object : 09_35 - Object No- 18
+Epoch [1] -loss 0.1937 - Accuracy: 98.30% 
+Epoch [2] -loss 0.0027 - Accuracy: 99.81% 
+
+Test accuracy : 54.53% -Current Object : 06_08 - Object No- 19
+Epoch [1] -loss 0.0259 - Accuracy: 99.22% 
+
+Test accuracy : 56.11% -Current Object : 11_24 - Object No- 20
+Epoch [1] -loss 0.0883 - Accuracy: 99.16% 
+
+Test accuracy : 54.08% -Current Object : 05_48 - Object No- 21
+Epoch [1] -loss 0.0070 - Accuracy: 99.59% 
+
+Test accuracy : 56.09% -Current Object : 05_29 - Object No- 22
+Epoch [1] -loss 0.2336 - Accuracy: 98.80% 
+Epoch [2] -loss 0.0045 - Accuracy: 99.80% 
+
+Test accuracy : 61.64% -Current Object : 09_05 - Object No- 23
+Epoch [1] -loss 0.0060 - Accuracy: 99.68% 
+
+Test accuracy : 63.38% -Current Object : 11_34 - Object No- 24
+Epoch [1] -loss 0.0107 - Accuracy: 99.51% 
+
+Test accuracy : 60.51% -Current Object : 04_31 - Object No- 25
+Epoch [1] -loss 0.0245 - Accuracy: 99.23% 
+
+Test accuracy : 63.17% -Current Object : 02_13 - Object No- 26
+Epoch [1] -loss 0.0363 - Accuracy: 99.20% 
+
+Test accuracy : 63.92% -Current Object : 08_21 - Object No- 27
+Epoch [1] -loss 0.0094 - Accuracy: 99.59% 
+
+Test accuracy : 63.81% -Current Object : 05_44 - Object No- 28
+Epoch [1] -loss 0.0061 - Accuracy: 99.55% 
+
+Test accuracy : 65.63% -Current Object : 01_12 - Object No- 29
+Epoch [1] -loss 0.0034 - Accuracy: 99.70% 
+
+Test accuracy : 64.06% -Current Object : 02_31 - Object No- 30
+Epoch [1] -loss 0.0135 - Accuracy: 99.45% 
+
+Test accuracy : 66.18% -Current Object : 02_28 - Object No- 31
+Epoch [1] -loss 0.0113 - Accuracy: 99.60% 
+
+Test accuracy : 65.52% -Current Object : 04_26 - Object No- 32
+Epoch [1] -loss 0.0613 - Accuracy: 98.87% 
+Epoch [2] -loss 0.0063 - Accuracy: 99.53% 
+
+Test accuracy : 64.84% -Current Object : 11_14 - Object No- 33
+Epoch [1] -loss 0.0561 - Accuracy: 98.39% 
+Epoch [2] -loss 0.0072 - Accuracy: 99.44% 
+
+Test accuracy : 68.63% -Current Object : 01_20 - Object No- 34
+Epoch [1] -loss 0.0178 - Accuracy: 99.25% 
+
+Test accuracy : 68.58% -Current Object : 11_03 - Object No- 35
+Epoch [1] -loss 0.0143 - Accuracy: 99.18% 
+
+Test accuracy : 69.96% -Current Object : 08_11 - Object No- 36
+Epoch [1] -loss 0.0384 - Accuracy: 98.20% 
+Epoch [2] -loss 0.0106 - Accuracy: 98.87% 
+Epoch [3] -loss 0.0079 - Accuracy: 99.31% 
+
+Test accuracy : 70.81% -Current Object : 04_10 - Object No- 37
+Epoch [1] -loss 0.0138 - Accuracy: 99.07% 
+
+Test accuracy : 70.76% -Current Object : 04_18 - Object No- 38
+Epoch [1] -loss 0.0501 - Accuracy: 99.01% 
+
+Test accuracy : 68.91% -Current Object : 05_12 - Object No- 39
+Epoch [1] -loss 0.0143 - Accuracy: 99.01% 
+
+Test accuracy : 69.09% -Current Object : 04_22 - Object No- 40
+Epoch [1] -loss 0.0094 - Accuracy: 99.24% 
+
+Test accuracy : 67.98% -Current Object : 05_03 - Object No- 41
+Epoch [1] -loss 0.0417 - Accuracy: 98.85% 
+Epoch [2] -loss 0.0097 - Accuracy: 99.23% 
+
+Test accuracy : 70.79% -Current Object : 05_17 - Object No- 42
+Epoch [1] -loss 0.0119 - Accuracy: 99.29% 
+
+Test accuracy : 70.78% -Current Object : 11_32 - Object No- 43
+Epoch [1] -loss 0.0365 - Accuracy: 99.13% 
+
+Test accuracy : 69.17% -Current Object : 06_35 - Object No- 44
+Epoch [1] -loss 0.0145 - Accuracy: 99.00% 
+Epoch [2] -loss 0.0096 - Accuracy: 99.42% 
+
+Test accuracy : 68.25% -Current Object : 06_16 - Object No- 45
+Epoch [1] -loss 0.0725 - Accuracy: 98.83% 
+Epoch [2] -loss 0.0125 - Accuracy: 99.19% 
+
+Test accuracy : 71.59% -Current Object : 05_07 - Object No- 46
+Epoch [1] -loss 0.0197 - Accuracy: 98.96% 
+Epoch [2] -loss 0.0092 - Accuracy: 99.25% 
+
+Test accuracy : 74.02% -Current Object : 08_09 - Object No- 47
+Epoch [1] -loss 0.0228 - Accuracy: 98.92% 
+Epoch [2] -loss 0.0117 - Accuracy: 99.21% 
+
+Test accuracy : 74.46% -Current Object : 04_49 - Object No- 48
+Epoch [1] -loss 0.0186 - Accuracy: 98.90% 
+Epoch [2] -loss 0.0083 - Accuracy: 99.18% 
+
+Test accuracy : 74.52% -Current Object : 01_36 - Object No- 49
+Epoch [1] -loss 0.0199 - Accuracy: 99.03% 
+
+Test accuracy : 74.91% -Current Object : 08_48 - Object No- 50
+Epoch [1] -loss 0.0979 - Accuracy: 98.43% 
+Epoch [2] -loss 0.0144 - Accuracy: 98.97% 
+Epoch [3] -loss 0.0155 - Accuracy: 99.12% 
+
+Test accuracy : 76.01% -Current Object : 11_45 - Object No- 51
+Epoch [1] -loss 0.0525 - Accuracy: 98.70% 
+Epoch [2] -loss 0.0095 - Accuracy: 99.02% 
+
+Test accuracy : 74.78% -Current Object : 05_50 - Object No- 52
+Epoch [1] -loss 0.0347 - Accuracy: 98.48% 
+Epoch [2] -loss 0.0185 - Accuracy: 98.95% 
+Epoch [3] -loss 0.0136 - Accuracy: 99.03% 
+
+Test accuracy : 76.29% -Current Object : 08_41 - Object No- 53
+Epoch [1] -loss 0.0105 - Accuracy: 99.01% 
+
+Test accuracy : 76.75% -Current Object : 11_33 - Object No- 54
+Epoch [1] -loss 0.0558 - Accuracy: 98.56% 
+Epoch [2] -loss 0.0091 - Accuracy: 98.98% 
+Epoch [3] -loss 0.0082 - Accuracy: 99.00% 
+Epoch [4] -loss 0.0294 - Accuracy: 99.17% 
+
+Test accuracy : 77.15% -Current Object : 11_19 - Object No- 55
+Epoch [1] -loss 0.1212 - Accuracy: 97.78% 
+Epoch [2] -loss 0.0278 - Accuracy: 98.41% 
+Epoch [3] -loss 0.0191 - Accuracy: 98.52% 
+Epoch [4] -loss 0.0112 - Accuracy: 98.61% 
+Epoch [5] -loss 0.0169 - Accuracy: 98.83% 
+Epoch [6] -loss 0.0153 - Accuracy: 98.90% 
+Epoch [7] -loss 0.0155 - Accuracy: 98.89% 
+Epoch [8] -loss 0.0199 - Accuracy: 98.92% 
+Epoch [9] -loss 0.0100 - Accuracy: 98.95% 
+Epoch [10] -loss 0.0114 - Accuracy: 99.09% 
+
+Test accuracy : 79.27% -Current Object : 11_27 - Object No- 56
+Epoch [1] -loss 0.0144 - Accuracy: 98.78% 
+Epoch [2] -loss 0.0123 - Accuracy: 98.92% 
+Epoch [3] -loss 0.0113 - Accuracy: 99.09% 
+
+Test accuracy : 78.86% -Current Object : 09_24 - Object No- 57
+Epoch [1] -loss 0.0452 - Accuracy: 98.93% 
+Epoch [2] -loss 0.0123 - Accuracy: 98.88% 
+Epoch [3] -loss 0.0084 - Accuracy: 99.01% 
+
+Test accuracy : 80.02% -Current Object : 01_30 - Object No- 58
+Epoch [1] -loss 0.0163 - Accuracy: 98.91% 
+Epoch [2] -loss 0.0108 - Accuracy: 98.95% 
+Epoch [3] -loss 0.0150 - Accuracy: 99.06% 
+
+Test accuracy : 79.20% -Current Object : 06_22 - Object No- 59
+Epoch [1] -loss 0.0320 - Accuracy: 98.77% 
+Epoch [2] -loss 0.0100 - Accuracy: 98.90% 
+Epoch [3] -loss 0.0108 - Accuracy: 98.98% 
+Epoch [4] -loss 0.0097 - Accuracy: 98.98% 
+Epoch [5] -loss 0.0158 - Accuracy: 99.12% 
+
+Test accuracy : 79.04% -Current Object : 04_12 - Object No- 60
+Epoch [1] -loss 0.0205 - Accuracy: 98.54% 
+Epoch [2] -loss 0.0133 - Accuracy: 98.86% 
+Epoch [3] -loss 0.0324 - Accuracy: 98.87% 
+Epoch [4] -loss 0.0106 - Accuracy: 98.87% 
+Epoch [5] -loss 0.0202 - Accuracy: 98.94% 
+Epoch [6] -loss 0.0107 - Accuracy: 99.09% 
+
+Test accuracy : 78.80% -Current Object : 09_42 - Object No- 61
+Epoch [1] -loss 0.0170 - Accuracy: 98.52% 
+Epoch [2] -loss 0.0144 - Accuracy: 98.85% 
+Epoch [3] -loss 0.0140 - Accuracy: 98.82% 
+Epoch [4] -loss 0.0110 - Accuracy: 98.84% 
+Epoch [5] -loss 0.0238 - Accuracy: 98.91% 
+Epoch [6] -loss 0.0098 - Accuracy: 99.05% 
+
+Test accuracy : 77.63% -Current Object : 09_49 - Object No- 62
+Epoch [1] -loss 0.0144 - Accuracy: 99.01% 
+
+Test accuracy : 78.13% -Current Object : 02_44 - Object No- 63
+Epoch [1] -loss 0.0279 - Accuracy: 98.72% 
+Epoch [2] -loss 0.0114 - Accuracy: 98.88% 
+Epoch [3] -loss 0.0104 - Accuracy: 98.92% 
+Epoch [4] -loss 0.0107 - Accuracy: 99.00% 
+Epoch [5] -loss 0.0105 - Accuracy: 98.89% 
+Epoch [6] -loss 0.0200 - Accuracy: 99.02% 
+
+Test accuracy : 78.52% -Current Object : 02_14 - Object No- 64
+Epoch [1] -loss 0.0429 - Accuracy: 98.68% 
+Epoch [2] -loss 0.0113 - Accuracy: 98.60% 
+Epoch [3] -loss 0.0178 - Accuracy: 98.79% 
+Epoch [4] -loss 0.0182 - Accuracy: 98.86% 
+Epoch [5] -loss 0.0243 - Accuracy: 98.72% 
+Epoch [6] -loss 0.0175 - Accuracy: 98.88% 
+Epoch [7] -loss 0.0091 - Accuracy: 98.91% 
+Epoch [8] -loss 0.0099 - Accuracy: 98.95% 
+Epoch [9] -loss 0.0148 - Accuracy: 98.80% 
+Epoch [10] -loss 0.0143 - Accuracy: 98.90% 
+Epoch [11] -loss 0.0244 - Accuracy: 99.03% 
+
+Test accuracy : 78.41% -Current Object : 05_15 - Object No- 65
+Epoch [1] -loss 0.0341 - Accuracy: 98.52% 
+Epoch [2] -loss 0.0132 - Accuracy: 98.67% 
+Epoch [3] -loss 0.0222 - Accuracy: 98.71% 
+Epoch [4] -loss 0.0150 - Accuracy: 98.72% 
+Epoch [5] -loss 0.0120 - Accuracy: 98.73% 
+Epoch [6] -loss 0.0167 - Accuracy: 98.76% 
+Epoch [7] -loss 0.0200 - Accuracy: 98.66% 
+Epoch [8] -loss 0.0109 - Accuracy: 98.76% 
+Epoch [9] -loss 0.0128 - Accuracy: 98.96% 
+Epoch [10] -loss 0.0151 - Accuracy: 98.83% 
+Epoch [11] -loss 0.0116 - Accuracy: 98.91% 
+Epoch [12] -loss 0.0104 - Accuracy: 98.85% 
+Epoch [13] -loss 0.0123 - Accuracy: 98.92% 
+Epoch [14] -loss 0.0122 - Accuracy: 98.92% 
+Epoch [15] -loss 0.0125 - Accuracy: 98.90% 
+Epoch [16] -loss 0.0109 - Accuracy: 98.98% 
+Epoch [17] -loss 0.0123 - Accuracy: 98.95% 
+Epoch [18] -loss 0.0091 - Accuracy: 99.02% 
+
+Test accuracy : 77.02% -Current Object : 05_46 - Object No- 66
+Epoch [1] -loss 0.0685 - Accuracy: 97.74% 
+Epoch [2] -loss 0.0270 - Accuracy: 98.25% 
+Epoch [3] -loss 0.0156 - Accuracy: 98.51% 
+Epoch [4] -loss 0.0414 - Accuracy: 98.52% 
+Epoch [5] -loss 0.0139 - Accuracy: 98.60% 
+Epoch [6] -loss 0.0166 - Accuracy: 98.57% 
+Epoch [7] -loss 0.0134 - Accuracy: 98.60% 
+Epoch [8] -loss 0.0137 - Accuracy: 98.67% 
+Epoch [9] -loss 0.0171 - Accuracy: 98.70% 
+Epoch [10] -loss 0.0311 - Accuracy: 98.82% 
+Epoch [11] -loss 0.0118 - Accuracy: 98.75% 
+Epoch [12] -loss 0.0183 - Accuracy: 98.67% 
+Epoch [13] -loss 0.0140 - Accuracy: 98.82% 
+Epoch [14] -loss 0.0293 - Accuracy: 98.87% 
+Epoch [15] -loss 0.0235 - Accuracy: 98.89% 
+Epoch [16] -loss 0.0139 - Accuracy: 98.92% 
+Epoch [17] -loss 0.0143 - Accuracy: 98.84% 
+Epoch [18] -loss 0.0134 - Accuracy: 98.82% 
+Epoch [19] -loss 0.0096 - Accuracy: 98.97% 
+Epoch [20] -loss 0.0135 - Accuracy: 98.96% 
+Epoch [21] -loss 0.0114 - Accuracy: 98.99% 
+Epoch [22] -loss 0.0110 - Accuracy: 98.96% 
+Epoch [23] -loss 0.0140 - Accuracy: 98.93% 
+Epoch [24] -loss 0.0135 - Accuracy: 98.95% 
+Epoch [25] -loss 0.0100 - Accuracy: 98.93% 
+Epoch [26] -loss 0.0099 - Accuracy: 99.11% 
+
+Test accuracy : 76.88% -Current Object : 06_39 - Object No- 67
+Epoch [1] -loss 0.0277 - Accuracy: 98.74% 
+Epoch [2] -loss 0.0170 - Accuracy: 98.82% 
+Epoch [3] -loss 0.0136 - Accuracy: 98.85% 
+Epoch [4] -loss 0.0095 - Accuracy: 98.94% 
+Epoch [5] -loss 0.0115 - Accuracy: 98.91% 
+Epoch [6] -loss 0.0111 - Accuracy: 98.93% 
+Epoch [7] -loss 0.0177 - Accuracy: 99.04% 
+
+Test accuracy : 75.78% -Current Object : 09_15 - Object No- 68
+Epoch [1] -loss 0.0314 - Accuracy: 98.28% 
+Epoch [2] -loss 0.0224 - Accuracy: 98.62% 
+Epoch [3] -loss 0.0144 - Accuracy: 98.71% 
+Epoch [4] -loss 0.0159 - Accuracy: 98.75% 
+Epoch [5] -loss 0.0104 - Accuracy: 98.76% 
+Epoch [6] -loss 0.0101 - Accuracy: 98.72% 
+Epoch [7] -loss 0.0132 - Accuracy: 98.84% 
+Epoch [8] -loss 0.0148 - Accuracy: 98.73% 
+Epoch [9] -loss 0.0115 - Accuracy: 98.79% 
+Epoch [10] -loss 0.0194 - Accuracy: 98.87% 
+Epoch [11] -loss 0.0163 - Accuracy: 98.95% 
+Epoch [12] -loss 0.0210 - Accuracy: 98.88% 
+Epoch [13] -loss 0.0121 - Accuracy: 98.91% 
+Epoch [14] -loss 0.0120 - Accuracy: 98.80% 
+Epoch [15] -loss 0.0128 - Accuracy: 98.91% 
+Epoch [16] -loss 0.0140 - Accuracy: 99.04% 
+
+Test accuracy : 77.43% -Current Object : 06_04 - Object No- 69
+Epoch [1] -loss 0.0120 - Accuracy: 98.73% 
+Epoch [2] -loss 0.0131 - Accuracy: 98.88% 
+Epoch [3] -loss 0.0102 - Accuracy: 98.92% 
+Epoch [4] -loss 0.0108 - Accuracy: 98.94% 
+Epoch [5] -loss 0.0098 - Accuracy: 98.95% 
+Epoch [6] -loss 0.0106 - Accuracy: 98.94% 
+Epoch [7] -loss 0.0127 - Accuracy: 98.92% 
+Epoch [8] -loss 0.0107 - Accuracy: 98.99% 
+Epoch [9] -loss 0.0105 - Accuracy: 98.96% 
+Epoch [10] -loss 0.0092 - Accuracy: 99.00% 
+
+Test accuracy : 77.51% -Current Object : 08_32 - Object No- 70
+Epoch [1] -loss 0.0193 - Accuracy: 98.47% 
+Epoch [2] -loss 0.0157 - Accuracy: 98.73% 
+Epoch [3] -loss 0.0253 - Accuracy: 98.71% 
+Epoch [4] -loss 0.0137 - Accuracy: 98.82% 
+Epoch [5] -loss 0.0099 - Accuracy: 98.82% 
+Epoch [6] -loss 0.0092 - Accuracy: 98.71% 
+Epoch [7] -loss 0.0116 - Accuracy: 98.87% 
+Epoch [8] -loss 0.0091 - Accuracy: 98.97% 
+Epoch [9] -loss 0.0112 - Accuracy: 98.94% 
+Epoch [10] -loss 0.0271 - Accuracy: 98.88% 
+Epoch [11] -loss 0.0087 - Accuracy: 98.97% 
+Epoch [12] -loss 0.0125 - Accuracy: 98.97% 
+Epoch [13] -loss 0.0119 - Accuracy: 98.94% 
+Epoch [14] -loss 0.0117 - Accuracy: 99.03% 
+
+Test accuracy : 77.04% -Current Object : 06_28 - Object No- 71
+Epoch [1] -loss 0.0264 - Accuracy: 98.80% 
+Epoch [2] -loss 0.0157 - Accuracy: 98.79% 
+Epoch [3] -loss 0.0115 - Accuracy: 98.86% 
+Epoch [4] -loss 0.0122 - Accuracy: 98.94% 
+Epoch [5] -loss 0.0105 - Accuracy: 98.93% 
+Epoch [6] -loss 0.0106 - Accuracy: 98.96% 
+Epoch [7] -loss 0.0154 - Accuracy: 98.98% 
+Epoch [8] -loss 0.0111 - Accuracy: 98.93% 
+Epoch [9] -loss 0.0131 - Accuracy: 99.10% 
+
+Test accuracy : 77.02% -Current Object : 04_42 - Object No- 72
+Epoch [1] -loss 0.0150 - Accuracy: 98.64% 
+Epoch [2] -loss 0.0163 - Accuracy: 98.73% 
+Epoch [3] -loss 0.0125 - Accuracy: 98.79% 
+Epoch [4] -loss 0.0146 - Accuracy: 98.77% 
+Epoch [5] -loss 0.0137 - Accuracy: 98.81% 
+Epoch [6] -loss 0.0213 - Accuracy: 98.83% 
+Epoch [7] -loss 0.0123 - Accuracy: 98.84% 
+Epoch [8] -loss 0.0111 - Accuracy: 98.90% 
+Epoch [9] -loss 0.0144 - Accuracy: 98.88% 
+Epoch [10] -loss 0.0142 - Accuracy: 98.93% 
+Epoch [11] -loss 0.0128 - Accuracy: 98.99% 
+Epoch [12] -loss 0.0106 - Accuracy: 98.97% 
+Epoch [13] -loss 0.0534 - Accuracy: 98.97% 
+Epoch [14] -loss 0.0109 - Accuracy: 98.97% 
+Epoch [15] -loss 0.0097 - Accuracy: 98.94% 
+Epoch [16] -loss 0.0186 - Accuracy: 98.92% 
+Epoch [17] -loss 0.0307 - Accuracy: 99.03% 
+
+Test accuracy : 76.70% -Current Object : 02_25 - Object No- 73
+Epoch [1] -loss 0.0145 - Accuracy: 98.67% 
+Epoch [2] -loss 0.0133 - Accuracy: 98.84% 
+Epoch [3] -loss 0.0111 - Accuracy: 98.86% 
+Epoch [4] -loss 0.0133 - Accuracy: 98.80% 
+Epoch [5] -loss 0.0124 - Accuracy: 98.84% 
+Epoch [6] -loss 0.0118 - Accuracy: 98.87% 
+Epoch [7] -loss 0.0135 - Accuracy: 98.80% 
+Epoch [8] -loss 0.0098 - Accuracy: 98.97% 
+Epoch [9] -loss 0.0245 - Accuracy: 98.85% 
+Epoch [10] -loss 0.0160 - Accuracy: 98.90% 
+Epoch [11] -loss 0.0207 - Accuracy: 98.92% 
+Epoch [12] -loss 0.0116 - Accuracy: 98.88% 
+Epoch [13] -loss 0.0142 - Accuracy: 98.91% 
+Epoch [14] -loss 0.0122 - Accuracy: 98.98% 
+Epoch [15] -loss 0.0116 - Accuracy: 98.88% 
+Epoch [16] -loss 0.0148 - Accuracy: 99.00% 
+Epoch [17] -loss 0.0116 - Accuracy: 98.96% 
+Epoch [18] -loss 0.0114 - Accuracy: 99.04% 
+
+Test accuracy : 76.29% -Current Object : 09_08 - Object No- 74
+Epoch [1] -loss 0.0340 - Accuracy: 98.20% 
+Epoch [2] -loss 0.0182 - Accuracy: 98.38% 
+Epoch [3] -loss 0.0215 - Accuracy: 98.45% 
+Epoch [4] -loss 0.0215 - Accuracy: 98.51% 
+Epoch [5] -loss 0.0201 - Accuracy: 98.63% 
+Epoch [6] -loss 0.0213 - Accuracy: 98.44% 
+Epoch [7] -loss 0.0222 - Accuracy: 98.47% 
+Epoch [8] -loss 0.0139 - Accuracy: 98.72% 
+Epoch [9] -loss 0.0141 - Accuracy: 98.59% 
+Epoch [10] -loss 0.0146 - Accuracy: 98.53% 
+Epoch [11] -loss 0.0188 - Accuracy: 98.63% 
+Epoch [12] -loss 0.0167 - Accuracy: 98.58% 
+Epoch [13] -loss 0.0186 - Accuracy: 98.61% 
+Epoch [14] -loss 0.0262 - Accuracy: 98.74% 
+Epoch [15] -loss 0.0185 - Accuracy: 98.62% 
+Epoch [16] -loss 0.0137 - Accuracy: 98.68% 
+Epoch [17] -loss 0.0143 - Accuracy: 98.68% 
+Epoch [18] -loss 0.0174 - Accuracy: 98.64% 
+Epoch [19] -loss 0.0135 - Accuracy: 98.72% 
+Epoch [20] -loss 0.0266 - Accuracy: 98.69% 
+Epoch [21] -loss 0.0150 - Accuracy: 98.70% 
+Epoch [22] -loss 0.0123 - Accuracy: 98.68% 
+Epoch [23] -loss 0.0197 - Accuracy: 98.79% 
+Epoch [24] -loss 0.0159 - Accuracy: 98.71% 
+Epoch [25] -loss 0.0110 - Accuracy: 98.75% 
+Epoch [26] -loss 0.0133 - Accuracy: 98.72% 
+Epoch [27] -loss 0.0167 - Accuracy: 98.68% 
+Epoch [28] -loss 0.0127 - Accuracy: 98.78% 
+Epoch [29] -loss 0.0126 - Accuracy: 98.83% 
+Epoch [30] -loss 0.0140 - Accuracy: 98.80% 
+Epoch [31] -loss 0.0159 - Accuracy: 98.79% 
+Epoch [32] -loss 0.0146 - Accuracy: 98.76% 
+Epoch [33] -loss 0.0120 - Accuracy: 98.79% 
+Epoch [34] -loss 0.0134 - Accuracy: 98.80% 
+Epoch [35] -loss 0.0124 - Accuracy: 98.72% 
+Epoch [36] -loss 0.0200 - Accuracy: 98.79% 
+Epoch [37] -loss 0.0119 - Accuracy: 98.95% 
+Epoch [38] -loss 0.0127 - Accuracy: 98.79% 
+Epoch [39] -loss 0.0187 - Accuracy: 98.84% 
+Epoch [40] -loss 0.0113 - Accuracy: 98.78% 
+Epoch [41] -loss 0.0118 - Accuracy: 98.84% 
+Epoch [42] -loss 0.0111 - Accuracy: 98.87% 
+Epoch [43] -loss 0.0224 - Accuracy: 98.83% 
+Epoch [44] -loss 0.0122 - Accuracy: 98.84% 
+Epoch [45] -loss 0.0104 - Accuracy: 98.89% 
+Epoch [46] -loss 0.0206 - Accuracy: 98.81% 
+Epoch [47] -loss 0.0142 - Accuracy: 98.87% 
+Epoch [48] -loss 0.0131 - Accuracy: 98.95% 
+Epoch [49] -loss 0.0122 - Accuracy: 98.88% 
+Epoch [50] -loss 0.0144 - Accuracy: 98.91% 
+Epoch [51] -loss 0.0096 - Accuracy: 98.95% 
+Epoch [52] -loss 0.0266 - Accuracy: 98.87% 
+Epoch [53] -loss 0.0099 - Accuracy: 98.91% 
+Epoch [54] -loss 0.0122 - Accuracy: 98.96% 
+Epoch [55] -loss 0.0253 - Accuracy: 98.92% 
+Epoch [56] -loss 0.0111 - Accuracy: 98.91% 
+Epoch [57] -loss 0.0278 - Accuracy: 99.00% 
+Epoch [58] -loss 0.0114 - Accuracy: 98.94% 
+Epoch [59] -loss 0.0108 - Accuracy: 98.91% 
+Epoch [60] -loss 0.0108 - Accuracy: 98.91% 
+Epoch [61] -loss 0.0106 - Accuracy: 98.89% 
+Epoch [62] -loss 0.0119 - Accuracy: 98.98% 
+Epoch [63] -loss 0.0163 - Accuracy: 99.01% 
+
+Test accuracy : 75.06% -Current Object : 09_27 - Object No- 75
+Epoch [1] -loss 0.0394 - Accuracy: 98.28% 
+Epoch [2] -loss 0.0238 - Accuracy: 98.41% 
+Epoch [3] -loss 0.0233 - Accuracy: 98.60% 
+Epoch [4] -loss 0.0131 - Accuracy: 98.52% 
+Epoch [5] -loss 0.0142 - Accuracy: 98.64% 
+Epoch [6] -loss 0.0123 - Accuracy: 98.63% 
+Epoch [7] -loss 0.0157 - Accuracy: 98.64% 
+Epoch [8] -loss 0.0160 - Accuracy: 98.77% 
+Epoch [9] -loss 0.0128 - Accuracy: 98.74% 
+Epoch [10] -loss 0.0119 - Accuracy: 98.74% 
+Epoch [11] -loss 0.0217 - Accuracy: 98.70% 
+Epoch [12] -loss 0.0154 - Accuracy: 98.79% 
+Epoch [13] -loss 0.0161 - Accuracy: 98.78% 
+Epoch [14] -loss 0.0173 - Accuracy: 98.81% 
+Epoch [15] -loss 0.0127 - Accuracy: 98.81% 
+Epoch [16] -loss 0.0147 - Accuracy: 98.84% 
+Epoch [17] -loss 0.0187 - Accuracy: 98.93% 
+Epoch [18] -loss 0.0128 - Accuracy: 98.82% 
+Epoch [19] -loss 0.0163 - Accuracy: 98.86% 
+Epoch [20] -loss 0.0155 - Accuracy: 98.85% 
+Epoch [21] -loss 0.0329 - Accuracy: 98.90% 
+Epoch [22] -loss 0.0161 - Accuracy: 98.83% 
+Epoch [23] -loss 0.0119 - Accuracy: 98.85% 
+Epoch [24] -loss 0.0102 - Accuracy: 98.92% 
+Epoch [25] -loss 0.0169 - Accuracy: 98.88% 
+Epoch [26] -loss 0.0123 - Accuracy: 98.84% 
+Epoch [27] -loss 0.0141 - Accuracy: 98.95% 
+Epoch [28] -loss 0.0188 - Accuracy: 98.87% 
+Epoch [29] -loss 0.0131 - Accuracy: 98.91% 
+Epoch [30] -loss 0.0179 - Accuracy: 98.98% 
+Epoch [31] -loss 0.0098 - Accuracy: 98.88% 
+Epoch [32] -loss 0.0115 - Accuracy: 98.93% 
+Epoch [33] -loss 0.0107 - Accuracy: 98.87% 
+Epoch [34] -loss 0.0149 - Accuracy: 99.03% 
+
+Test accuracy : 75.13% -Current Object : 02_10 - Object No- 76
+Epoch [1] -loss 0.0193 - Accuracy: 98.44% 
+Epoch [2] -loss 0.0232 - Accuracy: 98.61% 
+Epoch [3] -loss 0.0178 - Accuracy: 98.71% 
+Epoch [4] -loss 0.0127 - Accuracy: 98.73% 
+Epoch [5] -loss 0.0150 - Accuracy: 98.75% 
+Epoch [6] -loss 0.0224 - Accuracy: 98.65% 
+Epoch [7] -loss 0.0242 - Accuracy: 98.73% 
+Epoch [8] -loss 0.0580 - Accuracy: 98.73% 
+Epoch [9] -loss 0.0172 - Accuracy: 98.68% 
+Epoch [10] -loss 0.0147 - Accuracy: 98.80% 
+Epoch [11] -loss 0.0224 - Accuracy: 98.78% 
+Epoch [12] -loss 0.0148 - Accuracy: 98.81% 
+Epoch [13] -loss 0.0121 - Accuracy: 98.86% 
+Epoch [14] -loss 0.0120 - Accuracy: 98.68% 
+Epoch [15] -loss 0.0127 - Accuracy: 98.80% 
+Epoch [16] -loss 0.0209 - Accuracy: 98.77% 
+Epoch [17] -loss 0.0112 - Accuracy: 98.86% 
+Epoch [18] -loss 0.0156 - Accuracy: 98.85% 
+Epoch [19] -loss 0.0158 - Accuracy: 98.83% 
+Epoch [20] -loss 0.0139 - Accuracy: 98.88% 
+Epoch [21] -loss 0.0141 - Accuracy: 98.86% 
+Epoch [22] -loss 0.0132 - Accuracy: 98.89% 
+Epoch [23] -loss 0.0126 - Accuracy: 98.76% 
+Epoch [24] -loss 0.0150 - Accuracy: 98.80% 
+Epoch [25] -loss 0.0137 - Accuracy: 98.85% 
+Epoch [26] -loss 0.0160 - Accuracy: 98.89% 
+Epoch [27] -loss 0.0131 - Accuracy: 98.86% 
+Epoch [28] -loss 0.0131 - Accuracy: 98.89% 
+Epoch [29] -loss 0.0102 - Accuracy: 98.90% 
+Epoch [30] -loss 0.0168 - Accuracy: 98.88% 
+Epoch [31] -loss 0.0148 - Accuracy: 98.92% 
+Epoch [32] -loss 0.0207 - Accuracy: 98.98% 
+Epoch [33] -loss 0.0192 - Accuracy: 98.88% 
+Epoch [34] -loss 0.0196 - Accuracy: 98.80% 
+Epoch [35] -loss 0.0139 - Accuracy: 98.90% 
+Epoch [36] -loss 0.0169 - Accuracy: 98.92% 
+Epoch [37] -loss 0.0152 - Accuracy: 98.87% 
+Epoch [38] -loss 0.0123 - Accuracy: 98.95% 
+Epoch [39] -loss 0.0128 - Accuracy: 98.94% 
+Epoch [40] -loss 0.0184 - Accuracy: 98.96% 
+Epoch [41] -loss 0.0141 - Accuracy: 98.93% 
+Epoch [42] -loss 0.0120 - Accuracy: 98.87% 
+Epoch [43] -loss 0.0354 - Accuracy: 98.99% 
+Epoch [44] -loss 0.0111 - Accuracy: 98.87% 
+Epoch [45] -loss 0.0186 - Accuracy: 98.94% 
+Epoch [46] -loss 0.0142 - Accuracy: 99.03% 
+
+Test accuracy : 74.74% -Current Object : 05_14 - Object No- 77
+Epoch [1] -loss 0.0128 - Accuracy: 98.84% 
+Epoch [2] -loss 0.0133 - Accuracy: 98.99% 
+Epoch [3] -loss 0.0249 - Accuracy: 99.00% 
+
+Test accuracy : 73.97% -Current Object : 05_18 - Object No- 78
+Epoch [1] -loss 0.0134 - Accuracy: 98.89% 
+Epoch [2] -loss 0.0117 - Accuracy: 98.76% 
+Epoch [3] -loss 0.0132 - Accuracy: 98.80% 
+Epoch [4] -loss 0.0145 - Accuracy: 99.01% 
+
+Test accuracy : 74.33% -Current Object : 01_14 - Object No- 79
+Epoch [1] -loss 0.0182 - Accuracy: 98.64% 
+Epoch [2] -loss 0.0153 - Accuracy: 98.68% 
+Epoch [3] -loss 0.0120 - Accuracy: 98.74% 
+Epoch [4] -loss 0.0212 - Accuracy: 98.79% 
+Epoch [5] -loss 0.0138 - Accuracy: 98.82% 
+Epoch [6] -loss 0.0177 - Accuracy: 98.86% 
+Epoch [7] -loss 0.0312 - Accuracy: 98.84% 
+Epoch [8] -loss 0.0173 - Accuracy: 98.86% 
+Epoch [9] -loss 0.0148 - Accuracy: 98.84% 
+Epoch [10] -loss 0.0404 - Accuracy: 98.87% 
+Epoch [11] -loss 0.0133 - Accuracy: 98.80% 
+Epoch [12] -loss 0.0161 - Accuracy: 98.83% 
+Epoch [13] -loss 0.0115 - Accuracy: 98.83% 
+Epoch [14] -loss 0.0097 - Accuracy: 98.83% 
+Epoch [15] -loss 0.0124 - Accuracy: 98.93% 
+Epoch [16] -loss 0.0115 - Accuracy: 98.78% 
+Epoch [17] -loss 0.0181 - Accuracy: 98.91% 
+Epoch [18] -loss 0.0136 - Accuracy: 98.84% 
+Epoch [19] -loss 0.0144 - Accuracy: 98.84% 
+Epoch [20] -loss 0.0146 - Accuracy: 98.92% 
+Epoch [21] -loss 0.0148 - Accuracy: 98.89% 
+Epoch [22] -loss 0.0156 - Accuracy: 98.90% 
+Epoch [23] -loss 0.0095 - Accuracy: 98.93% 
+Epoch [24] -loss 0.0109 - Accuracy: 98.93% 
+Epoch [25] -loss 0.0200 - Accuracy: 98.83% 
+Epoch [26] -loss 0.0134 - Accuracy: 98.96% 
+Epoch [27] -loss 0.0133 - Accuracy: 98.92% 
+Epoch [28] -loss 0.0232 - Accuracy: 98.89% 
+Epoch [29] -loss 0.0099 - Accuracy: 98.94% 
+Epoch [30] -loss 0.0167 - Accuracy: 98.86% 
+Epoch [31] -loss 0.0152 - Accuracy: 99.00% 
+Epoch [32] -loss 0.0198 - Accuracy: 98.91% 
+Epoch [33] -loss 0.0121 - Accuracy: 98.97% 
+Epoch [34] -loss 0.0089 - Accuracy: 98.99% 
+Epoch [35] -loss 0.0146 - Accuracy: 98.99% 
+Epoch [36] -loss 0.0114 - Accuracy: 99.04% 
+
+Test accuracy : 74.63% -Current Object : 09_36 - Object No- 80
+Epoch [1] -loss 0.0209 - Accuracy: 98.78% 
+Epoch [2] -loss 0.0224 - Accuracy: 98.88% 
+Epoch [3] -loss 0.0138 - Accuracy: 98.90% 
+Epoch [4] -loss 0.0143 - Accuracy: 98.86% 
+Epoch [5] -loss 0.0151 - Accuracy: 98.81% 
+Epoch [6] -loss 0.0116 - Accuracy: 98.90% 
+Epoch [7] -loss 0.0209 - Accuracy: 98.85% 
+Epoch [8] -loss 0.0130 - Accuracy: 98.89% 
+Epoch [9] -loss 0.0119 - Accuracy: 98.92% 
+Epoch [10] -loss 0.0117 - Accuracy: 98.87% 
+Epoch [11] -loss 0.0161 - Accuracy: 98.96% 
+Epoch [12] -loss 0.0115 - Accuracy: 98.83% 
+Epoch [13] -loss 0.0142 - Accuracy: 99.02% 
+
+Test accuracy : 74.01% -Current Object : 11_21 - Object No- 81
+Epoch [1] -loss 0.1747 - Accuracy: 97.46% 
+Epoch [2] -loss 0.0435 - Accuracy: 97.96% 
+Epoch [3] -loss 0.0348 - Accuracy: 98.08% 
+Epoch [4] -loss 0.0227 - Accuracy: 98.29% 
+Epoch [5] -loss 0.0196 - Accuracy: 98.20% 
+Epoch [6] -loss 0.0249 - Accuracy: 98.24% 
+Epoch [7] -loss 0.0192 - Accuracy: 98.45% 
+Epoch [8] -loss 0.0226 - Accuracy: 98.39% 
+Epoch [9] -loss 0.0227 - Accuracy: 98.46% 
+Epoch [10] -loss 0.0180 - Accuracy: 98.41% 
+Epoch [11] -loss 0.0149 - Accuracy: 98.40% 
+Epoch [12] -loss 0.0271 - Accuracy: 98.47% 
+Epoch [13] -loss 0.0215 - Accuracy: 98.45% 
+Epoch [14] -loss 0.0139 - Accuracy: 98.51% 
+Epoch [15] -loss 0.0230 - Accuracy: 98.56% 
+Epoch [16] -loss 0.0259 - Accuracy: 98.51% 
+Epoch [17] -loss 0.0125 - Accuracy: 98.58% 
+Epoch [18] -loss 0.0199 - Accuracy: 98.58% 
+Epoch [19] -loss 0.0121 - Accuracy: 98.56% 
+Epoch [20] -loss 0.0230 - Accuracy: 98.60% 
+Epoch [21] -loss 0.0228 - Accuracy: 98.62% 
+Epoch [22] -loss 0.0130 - Accuracy: 98.67% 
+Epoch [23] -loss 0.0147 - Accuracy: 98.51% 
+Epoch [24] -loss 0.0173 - Accuracy: 98.61% 
+Epoch [25] -loss 0.0163 - Accuracy: 98.64% 
+Epoch [26] -loss 0.0152 - Accuracy: 98.56% 
+Epoch [27] -loss 0.0183 - Accuracy: 98.62% 
+Epoch [28] -loss 0.0133 - Accuracy: 98.60% 
+Epoch [29] -loss 0.0196 - Accuracy: 98.62% 
+Epoch [30] -loss 0.0212 - Accuracy: 98.70% 
+Epoch [31] -loss 0.0151 - Accuracy: 98.66% 
+Epoch [32] -loss 0.0211 - Accuracy: 98.75% 
+Epoch [33] -loss 0.0161 - Accuracy: 98.60% 
+Epoch [34] -loss 0.0229 - Accuracy: 98.68% 
+Epoch [35] -loss 0.0173 - Accuracy: 98.74% 
+Epoch [36] -loss 0.0155 - Accuracy: 98.80% 
+Epoch [37] -loss 0.0175 - Accuracy: 98.65% 
+Epoch [38] -loss 0.0150 - Accuracy: 98.68% 
+Epoch [39] -loss 0.0163 - Accuracy: 98.78% 
+Epoch [40] -loss 0.0133 - Accuracy: 98.70% 
+Epoch [41] -loss 0.0147 - Accuracy: 98.75% 
+Epoch [42] -loss 0.0135 - Accuracy: 98.68% 
+Epoch [43] -loss 0.0107 - Accuracy: 98.76% 
+Epoch [44] -loss 0.0260 - Accuracy: 98.72% 
+Epoch [45] -loss 0.0132 - Accuracy: 98.77% 
+Epoch [46] -loss 0.0093 - Accuracy: 98.80% 
+Epoch [47] -loss 0.0149 - Accuracy: 98.75% 
+Epoch [48] -loss 0.0191 - Accuracy: 98.81% 
+Epoch [49] -loss 0.0132 - Accuracy: 98.77% 
+Epoch [50] -loss 0.0136 - Accuracy: 98.81% 
+Epoch [51] -loss 0.0240 - Accuracy: 98.78% 
+Epoch [52] -loss 0.0120 - Accuracy: 98.87% 
+Epoch [53] -loss 0.0124 - Accuracy: 98.88% 
+Epoch [54] -loss 0.0141 - Accuracy: 98.81% 
+Epoch [55] -loss 0.0218 - Accuracy: 98.85% 
+Epoch [56] -loss 0.0176 - Accuracy: 98.83% 
+Epoch [57] -loss 0.0145 - Accuracy: 98.83% 
+Epoch [58] -loss 0.0120 - Accuracy: 98.85% 
+Epoch [59] -loss 0.0120 - Accuracy: 98.89% 
+Epoch [60] -loss 0.0129 - Accuracy: 98.89% 
+Epoch [61] -loss 0.0234 - Accuracy: 98.88% 
+Epoch [62] -loss 0.0121 - Accuracy: 98.82% 
+Epoch [63] -loss 0.0105 - Accuracy: 98.88% 
+Epoch [64] -loss 0.0175 - Accuracy: 98.80% 
+Epoch [65] -loss 0.0251 - Accuracy: 98.91% 
+Epoch [66] -loss 0.0117 - Accuracy: 98.94% 
+Epoch [67] -loss 0.0210 - Accuracy: 98.84% 
+Epoch [68] -loss 0.0128 - Accuracy: 98.96% 
+Epoch [69] -loss 0.0113 - Accuracy: 98.86% 
+Epoch [70] -loss 0.0168 - Accuracy: 98.90% 
+Epoch [71] -loss 0.0134 - Accuracy: 98.82% 
+Epoch [72] -loss 0.0122 - Accuracy: 98.85% 
+Epoch [73] -loss 0.0182 - Accuracy: 98.97% 
+Epoch [74] -loss 0.0133 - Accuracy: 98.82% 
+Epoch [75] -loss 0.0121 - Accuracy: 98.86% 
+Epoch [76] -loss 0.0182 - Accuracy: 98.84% 
+Epoch [77] -loss 0.0118 - Accuracy: 98.89% 
+Epoch [78] -loss 0.0122 - Accuracy: 98.90% 
+Epoch [79] -loss 0.0107 - Accuracy: 99.02% 
+
+Test accuracy : 72.79% -Current Object : 04_01 - Object No- 82
+Epoch [1] -loss 0.0203 - Accuracy: 98.52% 
+Epoch [2] -loss 0.0213 - Accuracy: 98.56% 
+Epoch [3] -loss 0.0144 - Accuracy: 98.65% 
+Epoch [4] -loss 0.0151 - Accuracy: 98.67% 
+Epoch [5] -loss 0.0198 - Accuracy: 98.66% 
+Epoch [6] -loss 0.0169 - Accuracy: 98.76% 
+Epoch [7] -loss 0.0110 - Accuracy: 98.66% 
+Epoch [8] -loss 0.0221 - Accuracy: 98.71% 
+Epoch [9] -loss 0.0190 - Accuracy: 98.64% 
+Epoch [10] -loss 0.0105 - Accuracy: 98.73% 
+Epoch [11] -loss 0.0129 - Accuracy: 98.80% 
+Epoch [12] -loss 0.0175 - Accuracy: 98.75% 
+Epoch [13] -loss 0.0176 - Accuracy: 98.81% 
+Epoch [14] -loss 0.0146 - Accuracy: 98.83% 
+Epoch [15] -loss 0.0128 - Accuracy: 98.89% 
+Epoch [16] -loss 0.0185 - Accuracy: 98.81% 
+Epoch [17] -loss 0.0172 - Accuracy: 98.77% 
+Epoch [18] -loss 0.0171 - Accuracy: 98.72% 
+Epoch [19] -loss 0.0101 - Accuracy: 98.81% 
+Epoch [20] -loss 0.0185 - Accuracy: 98.79% 
+Epoch [21] -loss 0.0138 - Accuracy: 98.80% 
+Epoch [22] -loss 0.0172 - Accuracy: 98.85% 
+Epoch [23] -loss 0.0172 - Accuracy: 98.91% 
+Epoch [24] -loss 0.0114 - Accuracy: 98.87% 
+Epoch [25] -loss 0.0122 - Accuracy: 98.86% 
+Epoch [26] -loss 0.0118 - Accuracy: 98.85% 
+Epoch [27] -loss 0.0132 - Accuracy: 98.90% 
+Epoch [28] -loss 0.0122 - Accuracy: 98.86% 
+Epoch [29] -loss 0.0357 - Accuracy: 98.83% 
+Epoch [30] -loss 0.0123 - Accuracy: 98.93% 
+Epoch [31] -loss 0.0099 - Accuracy: 98.85% 
+Epoch [32] -loss 0.0111 - Accuracy: 98.97% 
+Epoch [33] -loss 0.0099 - Accuracy: 98.90% 
+Epoch [34] -loss 0.0147 - Accuracy: 98.89% 
+Epoch [35] -loss 0.0113 - Accuracy: 98.83% 
+Epoch [36] -loss 0.0135 - Accuracy: 98.89% 
+Epoch [37] -loss 0.0101 - Accuracy: 98.91% 
+Epoch [38] -loss 0.0104 - Accuracy: 98.89% 
+Epoch [39] -loss 0.0086 - Accuracy: 98.96% 
+Epoch [40] -loss 0.0111 - Accuracy: 98.86% 
+Epoch [41] -loss 0.0136 - Accuracy: 98.98% 
+Epoch [42] -loss 0.0110 - Accuracy: 98.91% 
+Epoch [43] -loss 0.0372 - Accuracy: 98.96% 
+Epoch [44] -loss 0.0087 - Accuracy: 98.99% 
+Epoch [45] -loss 0.0107 - Accuracy: 98.97% 
+Epoch [46] -loss 0.0174 - Accuracy: 98.98% 
+Epoch [47] -loss 0.0147 - Accuracy: 98.99% 
+Epoch [48] -loss 0.0111 - Accuracy: 98.99% 
+Epoch [49] -loss 0.0127 - Accuracy: 98.98% 
+Epoch [50] -loss 0.0099 - Accuracy: 98.95% 
+Epoch [51] -loss 0.0121 - Accuracy: 98.98% 
+Epoch [52] -loss 0.0123 - Accuracy: 99.04% 
+
+Test accuracy : 72.39% -Current Object : 05_36 - Object No- 83
+Epoch [1] -loss 0.0260 - Accuracy: 98.72% 
+Epoch [2] -loss 0.0148 - Accuracy: 98.72% 
+Epoch [3] -loss 0.0135 - Accuracy: 98.70% 
+Epoch [4] -loss 0.0129 - Accuracy: 98.71% 
+Epoch [5] -loss 0.0124 - Accuracy: 98.79% 
+Epoch [6] -loss 0.0143 - Accuracy: 98.72% 
+Epoch [7] -loss 0.0204 - Accuracy: 98.78% 
+Epoch [8] -loss 0.0095 - Accuracy: 98.80% 
+Epoch [9] -loss 0.0117 - Accuracy: 98.81% 
+Epoch [10] -loss 0.0157 - Accuracy: 98.88% 
+Epoch [11] -loss 0.0096 - Accuracy: 98.78% 
+Epoch [12] -loss 0.0137 - Accuracy: 98.84% 
+Epoch [13] -loss 0.0123 - Accuracy: 98.80% 
+Epoch [14] -loss 0.0130 - Accuracy: 98.80% 
+Epoch [15] -loss 0.0127 - Accuracy: 98.86% 
+Epoch [16] -loss 0.0116 - Accuracy: 98.87% 
+Epoch [17] -loss 0.0119 - Accuracy: 98.80% 
+Epoch [18] -loss 0.0089 - Accuracy: 98.91% 
+Epoch [19] -loss 0.0133 - Accuracy: 98.84% 
+Epoch [20] -loss 0.0122 - Accuracy: 98.87% 
+Epoch [21] -loss 0.0129 - Accuracy: 98.96% 
+Epoch [22] -loss 0.0105 - Accuracy: 98.88% 
+Epoch [23] -loss 0.0116 - Accuracy: 98.83% 
+Epoch [24] -loss 0.0106 - Accuracy: 98.93% 
+Epoch [25] -loss 0.0157 - Accuracy: 98.94% 
+Epoch [26] -loss 0.0106 - Accuracy: 98.87% 
+Epoch [27] -loss 0.0130 - Accuracy: 98.91% 
+Epoch [28] -loss 0.0098 - Accuracy: 98.93% 
+Epoch [29] -loss 0.0129 - Accuracy: 98.87% 
+Epoch [30] -loss 0.0138 - Accuracy: 98.86% 
+Epoch [31] -loss 0.0162 - Accuracy: 98.87% 
+Epoch [32] -loss 0.0084 - Accuracy: 98.92% 
+Epoch [33] -loss 0.0140 - Accuracy: 98.95% 
+Epoch [34] -loss 0.0091 - Accuracy: 98.94% 
+Epoch [35] -loss 0.0181 - Accuracy: 98.98% 
+Epoch [36] -loss 0.0199 - Accuracy: 98.92% 
+Epoch [37] -loss 0.0191 - Accuracy: 98.95% 
+Epoch [38] -loss 0.0099 - Accuracy: 98.91% 
+Epoch [39] -loss 0.0137 - Accuracy: 98.99% 
+Epoch [40] -loss 0.0106 - Accuracy: 98.91% 
+Epoch [41] -loss 0.0176 - Accuracy: 99.01% 
+
+Test accuracy : 71.64% -Current Object : 04_20 - Object No- 84
+Epoch [1] -loss 0.0225 - Accuracy: 98.74% 
+Epoch [2] -loss 0.0130 - Accuracy: 98.92% 
+Epoch [3] -loss 0.0119 - Accuracy: 98.83% 
+Epoch [4] -loss 0.0197 - Accuracy: 98.78% 
+Epoch [5] -loss 0.0202 - Accuracy: 98.87% 
+Epoch [6] -loss 0.0120 - Accuracy: 98.77% 
+Epoch [7] -loss 0.0133 - Accuracy: 98.90% 
+Epoch [8] -loss 0.0141 - Accuracy: 98.83% 
+Epoch [9] -loss 0.0179 - Accuracy: 98.87% 
+Epoch [10] -loss 0.0187 - Accuracy: 98.84% 
+Epoch [11] -loss 0.0141 - Accuracy: 98.89% 
+Epoch [12] -loss 0.0101 - Accuracy: 98.84% 
+Epoch [13] -loss 0.0112 - Accuracy: 98.91% 
+Epoch [14] -loss 0.0268 - Accuracy: 98.93% 
+Epoch [15] -loss 0.0149 - Accuracy: 98.90% 
+Epoch [16] -loss 0.0135 - Accuracy: 98.92% 
+Epoch [17] -loss 0.0096 - Accuracy: 98.95% 
+Epoch [18] -loss 0.0153 - Accuracy: 98.92% 
+Epoch [19] -loss 0.0153 - Accuracy: 98.94% 
+Epoch [20] -loss 0.0120 - Accuracy: 99.00% 
+Epoch [21] -loss 0.0131 - Accuracy: 98.98% 
+Epoch [22] -loss 0.0211 - Accuracy: 98.92% 
+Epoch [23] -loss 0.0107 - Accuracy: 98.89% 
+Epoch [24] -loss 0.0243 - Accuracy: 98.97% 
+Epoch [25] -loss 0.0108 - Accuracy: 99.00% 
+Epoch [26] -loss 0.0109 - Accuracy: 98.93% 
+Epoch [27] -loss 0.0115 - Accuracy: 98.90% 
+Epoch [28] -loss 0.0117 - Accuracy: 99.03% 
+
+Test accuracy : 71.13% -Current Object : 05_33 - Object No- 85
+Epoch [1] -loss 0.0468 - Accuracy: 98.32% 
+Epoch [2] -loss 0.0214 - Accuracy: 98.47% 
+Epoch [3] -loss 0.0271 - Accuracy: 98.61% 
+Epoch [4] -loss 0.0218 - Accuracy: 98.54% 
+Epoch [5] -loss 0.0159 - Accuracy: 98.55% 
+Epoch [6] -loss 0.0224 - Accuracy: 98.61% 
+Epoch [7] -loss 0.0174 - Accuracy: 98.49% 
+Epoch [8] -loss 0.0141 - Accuracy: 98.65% 
+Epoch [9] -loss 0.0147 - Accuracy: 98.66% 
+Epoch [10] -loss 0.0128 - Accuracy: 98.67% 
+Epoch [11] -loss 0.0148 - Accuracy: 98.59% 
+Epoch [12] -loss 0.0152 - Accuracy: 98.64% 
+Epoch [13] -loss 0.0159 - Accuracy: 98.70% 
+Epoch [14] -loss 0.0135 - Accuracy: 98.69% 
+Epoch [15] -loss 0.0193 - Accuracy: 98.68% 
+Epoch [16] -loss 0.0170 - Accuracy: 98.80% 
+Epoch [17] -loss 0.0135 - Accuracy: 98.78% 
+Epoch [18] -loss 0.0165 - Accuracy: 98.77% 
+Epoch [19] -loss 0.0155 - Accuracy: 98.75% 
+Epoch [20] -loss 0.0179 - Accuracy: 98.70% 
+Epoch [21] -loss 0.0128 - Accuracy: 98.85% 
+Epoch [22] -loss 0.0290 - Accuracy: 98.80% 
+Epoch [23] -loss 0.0135 - Accuracy: 98.76% 
+Epoch [24] -loss 0.0132 - Accuracy: 98.77% 
+Epoch [25] -loss 0.0136 - Accuracy: 98.68% 
+Epoch [26] -loss 0.0146 - Accuracy: 98.74% 
+Epoch [27] -loss 0.0180 - Accuracy: 98.78% 
+Epoch [28] -loss 0.0140 - Accuracy: 98.89% 
+Epoch [29] -loss 0.0169 - Accuracy: 98.77% 
+Epoch [30] -loss 0.0218 - Accuracy: 98.82% 
+Epoch [31] -loss 0.0276 - Accuracy: 98.85% 
+Epoch [32] -loss 0.0131 - Accuracy: 98.83% 
+Epoch [33] -loss 0.0112 - Accuracy: 98.82% 
+Epoch [34] -loss 0.0144 - Accuracy: 98.80% 
+Epoch [35] -loss 0.0157 - Accuracy: 98.86% 
+Epoch [36] -loss 0.0175 - Accuracy: 98.90% 
+Epoch [37] -loss 0.0263 - Accuracy: 98.86% 
+Epoch [38] -loss 0.0139 - Accuracy: 98.89% 
+Epoch [39] -loss 0.0107 - Accuracy: 98.83% 
+Epoch [40] -loss 0.0117 - Accuracy: 98.95% 
+Epoch [41] -loss 0.0152 - Accuracy: 98.86% 
+Epoch [42] -loss 0.0142 - Accuracy: 98.83% 
+Epoch [43] -loss 0.0135 - Accuracy: 98.91% 
+Epoch [44] -loss 0.0131 - Accuracy: 98.85% 
+Epoch [45] -loss 0.0144 - Accuracy: 98.81% 
+Epoch [46] -loss 0.0196 - Accuracy: 98.85% 
+Epoch [47] -loss 0.0096 - Accuracy: 98.89% 
+Epoch [48] -loss 0.0169 - Accuracy: 98.84% 
+Epoch [49] -loss 0.0184 - Accuracy: 98.85% 
+Epoch [50] -loss 0.0130 - Accuracy: 98.96% 
+Epoch [51] -loss 0.0120 - Accuracy: 98.94% 
+Epoch [52] -loss 0.0305 - Accuracy: 98.89% 
+Epoch [53] -loss 0.0129 - Accuracy: 98.95% 
+Epoch [54] -loss 0.0106 - Accuracy: 98.92% 
+Epoch [55] -loss 0.0110 - Accuracy: 99.03% 
+
+Test accuracy : 70.89% -Current Object : 02_16 - Object No- 86
+Epoch [1] -loss 0.0502 - Accuracy: 98.47% 
+Epoch [2] -loss 0.0174 - Accuracy: 98.49% 
+Epoch [3] -loss 0.0195 - Accuracy: 98.66% 
+Epoch [4] -loss 0.0157 - Accuracy: 98.54% 
+Epoch [5] -loss 0.0143 - Accuracy: 98.77% 
+Epoch [6] -loss 0.0162 - Accuracy: 98.76% 
+Epoch [7] -loss 0.0417 - Accuracy: 98.65% 
+Epoch [8] -loss 0.0152 - Accuracy: 98.68% 
+Epoch [9] -loss 0.0157 - Accuracy: 98.67% 
+Epoch [10] -loss 0.0138 - Accuracy: 98.62% 
+Epoch [11] -loss 0.0162 - Accuracy: 98.72% 
+Epoch [12] -loss 0.0157 - Accuracy: 98.63% 
+Epoch [13] -loss 0.0171 - Accuracy: 98.57% 
+Epoch [14] -loss 0.0127 - Accuracy: 98.68% 
+Epoch [15] -loss 0.0186 - Accuracy: 98.70% 
+Epoch [16] -loss 0.0120 - Accuracy: 98.78% 
+Epoch [17] -loss 0.0138 - Accuracy: 98.69% 
+Epoch [18] -loss 0.0207 - Accuracy: 98.73% 
+Epoch [19] -loss 0.0106 - Accuracy: 98.79% 
+Epoch [20] -loss 0.0147 - Accuracy: 98.74% 
+Epoch [21] -loss 0.0120 - Accuracy: 98.84% 
+Epoch [22] -loss 0.0156 - Accuracy: 98.72% 
+Epoch [23] -loss 0.0185 - Accuracy: 98.72% 
+Epoch [24] -loss 0.0110 - Accuracy: 98.76% 
+Epoch [25] -loss 0.0132 - Accuracy: 98.70% 
+Epoch [26] -loss 0.0117 - Accuracy: 98.72% 
+Epoch [27] -loss 0.0131 - Accuracy: 98.78% 
+Epoch [28] -loss 0.0118 - Accuracy: 98.85% 
+Epoch [29] -loss 0.0127 - Accuracy: 98.84% 
+Epoch [30] -loss 0.0145 - Accuracy: 98.83% 
+Epoch [31] -loss 0.0099 - Accuracy: 98.83% 
+Epoch [32] -loss 0.0184 - Accuracy: 98.77% 
+Epoch [33] -loss 0.0119 - Accuracy: 98.75% 
+Epoch [34] -loss 0.0151 - Accuracy: 98.78% 
+Epoch [35] -loss 0.0100 - Accuracy: 98.88% 
+Epoch [36] -loss 0.0109 - Accuracy: 98.86% 
+Epoch [37] -loss 0.0130 - Accuracy: 98.79% 
+Epoch [38] -loss 0.0111 - Accuracy: 98.85% 
+Epoch [39] -loss 0.0133 - Accuracy: 98.87% 
+Epoch [40] -loss 0.0120 - Accuracy: 98.87% 
+Epoch [41] -loss 0.0239 - Accuracy: 98.79% 
+Epoch [42] -loss 0.0150 - Accuracy: 98.92% 
+Epoch [43] -loss 0.0155 - Accuracy: 98.89% 
+Epoch [44] -loss 0.0141 - Accuracy: 98.83% 
+Epoch [45] -loss 0.0129 - Accuracy: 98.91% 
+Epoch [46] -loss 0.0132 - Accuracy: 98.85% 
+Epoch [47] -loss 0.0128 - Accuracy: 98.88% 
+Epoch [48] -loss 0.0105 - Accuracy: 98.95% 
+Epoch [49] -loss 0.0150 - Accuracy: 98.92% 
+Epoch [50] -loss 0.0139 - Accuracy: 98.89% 
+Epoch [51] -loss 0.0113 - Accuracy: 98.93% 
+Epoch [52] -loss 0.0311 - Accuracy: 98.94% 
+Epoch [53] -loss 0.0232 - Accuracy: 98.91% 
+Epoch [54] -loss 0.0105 - Accuracy: 98.97% 
+Epoch [55] -loss 0.0175 - Accuracy: 98.82% 
+Epoch [56] -loss 0.0199 - Accuracy: 98.86% 
+Epoch [57] -loss 0.0130 - Accuracy: 98.95% 
+Epoch [58] -loss 0.0185 - Accuracy: 98.98% 
+Epoch [59] -loss 0.0103 - Accuracy: 98.91% 
+Epoch [60] -loss 0.0157 - Accuracy: 98.96% 
+Epoch [61] -loss 0.0130 - Accuracy: 98.89% 
+Epoch [62] -loss 0.0112 - Accuracy: 98.93% 
+Epoch [63] -loss 0.0103 - Accuracy: 98.86% 
+Epoch [64] -loss 0.0091 - Accuracy: 98.85% 
+Epoch [65] -loss 0.0170 - Accuracy: 98.97% 
+Epoch [66] -loss 0.0128 - Accuracy: 98.96% 
